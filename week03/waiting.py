@@ -1,4 +1,4 @@
 import time
-time.sleep(15)
+time.sleep(10)
 
 print('The waiting is complete.')
